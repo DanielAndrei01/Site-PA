@@ -1,0 +1,78 @@
+#navbar_index{
+height: 150px;
+}
+
+
+.section_image{
+    background-color:aliceblue;
+    height: auto;
+    width: 25%;
+   
+    border-radius: 100px;
+    position: absolute;
+    top: 30%;
+    left: 42%;
+    margin: -50px 0 0 -50px;
+    
+
+}
+
+
+ section{
+    background-image: url(/Poze/Decor.jpg);
+   height: 1000px;
+  position: relative;
+
+} 
+
+.log_img{
+    background-color: aqua;
+    width: 40%;
+    background-color:aliceblue;
+    height: auto;
+   
+    /* margin-left: 35%;
+    margin-right:38%; */
+    border-radius:100px;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    margin: -50px 0 0 -50px;
+    
+}
+.reg_img{
+   
+    width: 40%;
+    background-color:aliceblue;
+    height: auto;
+   
+    /* margin-left: 35%;
+    margin-right:38%; */
+    border-radius: 100px;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    margin: -50px 0 0 -50px;
+}
+.login{
+    border-left: 90px;
+    text-align: center;
+}
+
+  input{
+    border-radius: 20px;
+  }
+/* <!-- <footer> <!--!------------------------------------------------------------ FOOTER-->
+                            
+<div class="social"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
+ <ul class="list-inline">
+     <li class="list-inline-item"><a href="#">Acasa</a></li>
+     <li class="list-inline-item"><a href="#">Servicii</a></li>
+     <li class="list-inline-item"><a href="#">Despre</a></li>
+     <li class="list-inline-item"><a href="#">Termeni</a></li>
+        
+</ul>
+
+<p class="copyright">Biblioteca Făgăraş & Automatrix © 2022</p>
+
+</footer> --> */
